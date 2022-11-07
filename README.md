@@ -1,14 +1,6 @@
 # RENAME-PRO
 
-# NOTE [READ THIS]
-
 AFTER FORK DON'T FORGET TO MAKE YOUR OWN DEPLOY LINK OTHERWISE BOT WILL NOT WORK
-
-## DEMO-BOT 👇👇
-
-[RENAME PRO ROBOT](https://t.me/Hx_RenameBot)
-
-
 
 
 A File Rename Bot with Custom Thumbnail Support
@@ -41,17 +33,6 @@ A File Rename Bot with Custom Thumbnail Support
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
-
-# HOW TO FILL -
-
-EXAMPLE - mongodb+srv://[UserName]:[password]@cluster0.dciqs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
-FILL THIS WAY 👇
-
-mongodb+srv://MRUSERNAME:MRPASSWORD@cluster0.dciqs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
-
-
 
 
 ### Deploy to Heroku
