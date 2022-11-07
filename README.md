@@ -56,7 +56,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 
 <p align="left">
-<a href="https://t.me/GreyMatters_Bots_Discussion"><img src="https://img.shields.io/badge/Join%20Our%20Group-HxSupport-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/GreyMatters_Bots_Discussion"></a>
 </p>
 <p align="left">
 <a href="https://github.com/oVo-HxBots"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
